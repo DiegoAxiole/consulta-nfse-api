@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 license = "MIT"
 authors = [
-    { name = "consulta-nfse-api contributors" },
+    { name = "DiegoAxiole" },
 ]
 classifiers = [
     "Development Status :: 4 - Beta",
@@ -27,9 +27,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/your-org/consulta-nfse-api"
-Source = "https://github.com/your-org/consulta-nfse-api"
-BugTracker = "https://github.com/your-org/consulta-nfse-api/issues"
+Homepage = "https://github.com/DiegoAxiole/consulta-nfse-api"
+Source = "https://github.com/DiegoAxiole/consulta-nfse-api"
+BugTracker = "https://github.com/DiegoAxiole/consulta-nfse-api/issues"
 
 [project.scripts]
 consulta-nfse-api = "consulta_nfse_api.__main__:app"
