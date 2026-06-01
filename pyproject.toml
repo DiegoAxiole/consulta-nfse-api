@@ -1,6 +1,6 @@
 [project]
 name = "consulta-nfse-api"
-version = "0.1.0"
+version = "0.1.1"
 description = "Cliente para download de XMLs da NFSe via API ADN Nacional com certificado A1"
 readme = "README.md"
 requires-python = ">=3.13"
