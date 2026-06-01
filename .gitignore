@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[oc]
+*.egg-info/
+
+# Build
+build/
+dist/
+wheels/
+*.egg
+
+# Virtual env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Cache
+.pytest_cache/
+
+# Secrets
+.env
+certificado/
+
+# Project files
+debug/
+xmls/
+xmls_teste/
